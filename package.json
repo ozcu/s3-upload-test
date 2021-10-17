@@ -1,0 +1,14 @@
+{
+  "name": "s3-upload-project",
+  "version": "1.0.0",
+  "description": "basic s3 upload test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ugurhan buyukozcu",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1009.0"
+  }
+}
